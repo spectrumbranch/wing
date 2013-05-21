@@ -1,0 +1,32 @@
+{
+  "name": "wing",
+  "version": "0.0.0",
+  "description": "Node HTTP API with idempotent rate limiting.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:spectrumbranch/wing.git"
+  },
+  "keywords": [
+    "api",
+    "network",
+    "cloud",
+    "gameplay"
+  ],
+  "author": "Christopher Bebry",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "e4bf6a73d065e08cc86c832b29b19d4144b3d459",
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "dependencies": {
+    "hapi": "~1.2.0"
+  }
+}
