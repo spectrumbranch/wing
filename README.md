@@ -1,9 +1,9 @@
 wing
 ====
 
-Node HTTP API with idempotent rate limiting.
+Node HTTP API with action rate limiting.
 
-In progress
+In progress, extremely experimental.
 
 
 First major milestone is allowing the creation of sessions, with authentication against an LDAP or database.
